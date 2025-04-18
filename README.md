@@ -112,5 +112,9 @@
 
 
 
-![snake gif](https://github.com/med-more/med-more/blob/output/github-contribution-grid-snake.gif)
+## 🐍 Snake Contribution Animation:
+![Snake animation](https://raw.githubusercontent.com/med-more/med-more/output/github-contribution-grid-snake.svg)
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=med-more&icon=0&color=0)](https://visitcount.itsvg.in)
