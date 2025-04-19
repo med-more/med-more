@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on [Quiz App]([https://github.com/med-more/ConstructionXpert-Services-Solution-Application-de-Gestion-de-Projets-de-Construction.git](https://github.com/med-more/Application-de-Quiz-avec-API-Trivia-et-suivi-de-progression.git))
 
-- 🌱 I’m currently learning **Tailwind, Bootstrap, JavaScript**
+- 🌱 I’m currently learning **Tailwind, React hooks, Typescript**
 
 - 👯 I’m looking to collaborate on [Stock manager](https://github.com/med-more/e-commerce-avec-gestion-des-r-les.git)
 
 - 👨‍💻 All of my projects are available at [Portfolio GitHub](https://github.com/med-more/react-portfolio-with-api.git)
 
-- 💬 Ask me about **React, Framer Motion**
+- 💬 Ask me about **React, Framer Motion, Javascript, Typescript, Tailwindcss**
 
 - 📫 How to reach me: **mohammedbaba1505@gmail.com**
 
