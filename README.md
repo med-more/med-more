@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [jury Blanc](https://github.com/med-more/ConstructionXpert-Services-Solution-Application-de-Gestion-de-Projets-de-Construction.git)
+- 🔭 I’m currently working on [Quiz App]([https://github.com/med-more/ConstructionXpert-Services-Solution-Application-de-Gestion-de-Projets-de-Construction.git](https://github.com/med-more/Application-de-Quiz-avec-API-Trivia-et-suivi-de-progression.git))
 
 - 🌱 I’m currently learning **Tailwind, Bootstrap, JavaScript**
 
