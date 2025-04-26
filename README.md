@@ -11,11 +11,11 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Quiz App]([https://github.com/med-more/ConstructionXpert-Services-Solution-Application-de-Gestion-de-Projets-de-Construction.git](https://github.com/med-more/Application-de-Quiz-avec-API-Trivia-et-suivi-de-progression.git))
+- 🔭 I’m currently working on [Blog Project]([[https://github.com/med-more/ConstructionXpert-Services-Solution-Application-de-Gestion-de-Projets-de-Construction.git](https://github.com/med-more/application-de-blog)]([https://github.com/med-more/Application-de-Quiz-avec-API-Trivia-et-suivi-de-progression.git](https://github.com/med-more/application-de-blog)))
 
 - 🌱 I’m currently learning **Tailwind, React hooks, Typescript**
 
-- 👯 I’m looking to collaborate on [Stock manager](https://github.com/med-more/e-commerce-avec-gestion-des-r-les.git)
+- 👯 I’m looking to collaborate on [blog Project with my My classmate]([https://github.com/med-more/e-commerce-avec-gestion-des-r-les.git](https://github.com/med-more/application-de-blog))
 
 - 👨‍💻 All of my projects are available at [Portfolio GitHub](https://github.com/med-more/react-portfolio-with-api.git)
 
