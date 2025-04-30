@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Blog Project]([[https://github.com/med-more/ConstructionXpert-Services-Solution-Application-de-Gestion-de-Projets-de-Construction.git](https://github.com/med-more/application-de-blog)]([https://github.com/med-more/Application-de-Quiz-avec-API-Trivia-et-suivi-de-progression.git](https://github.com/med-more/application-de-blog)))
+- 🔭 I’m currently working on [Plateforme de gestion de recettes]([[https://github.com/med-more/ConstructionXpert-Services-Solution-Application-de-Gestion-de-Projets-de-Construction.git](https://github.com/med-more/application-de-blog)]([https://github.com/med-more/Application-de-Quiz-avec-API-Trivia-et-suivi-de-progression.git](https://github.com/med-more/application-de-blog)))
 
 - 🌱 I’m currently learning **Tailwind, React hooks, Typescript**
 
