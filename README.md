@@ -11,11 +11,9 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Plateforme de gestion de recettes]([[https://github.com/med-more/ConstructionXpert-Services-Solution-Application-de-Gestion-de-Projets-de-Construction.git](https://github.com/med-more/application-de-blog)]([https://github.com/med-more/Application-de-Quiz-avec-API-Trivia-et-suivi-de-progression.git](https://github.com/med-more/application-de-blog)))
+- 🔭 I’m currently working on Plateforme mobile de gestion des incidents techniques – MERN + React Native en architecture avancée([[https://github.com/med-more/ConstructionXpert-Services-Solution-Application-de-Gestion-de-Projets-de-Construction.git](https://github.com/med-more/application-de-blog)]([https://github.com/med-more/Application-de-Quiz-avec-API-Trivia-et-suivi-de-progression.git](https://github.com/med-more/application-de-blog)))
 
 - 🌱 I’m currently learning **Tailwind, React hooks, Typescript**
-
-- 👯 I’m looking to collaborate on [blog Project with my My classmate]([https://github.com/med-more/e-commerce-avec-gestion-des-r-les.git](https://github.com/med-more/application-de-blog))
 
 - 👨‍💻 All of my projects are available at [Portfolio GitHub](https://github.com/med-more/react-portfolio-with-api.git)
 
