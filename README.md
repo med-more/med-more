@@ -11,9 +11,9 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on Plateforme mobile de gestion des incidents techniques – MERN + React Native en architecture avancée([(https://github.com/med-more/Plateforme-Mobile-de-Gestion-des-Incidents-Techniques.git)]
+- 🔭 I’m currently working on Plateforme Booking Hotels – MERN 
 
-- 🌱 I’m currently learning **Tailwind, React hooks, Typescript**
+- 🌱 I’m currently learning **Redux, React , React Native**
 
 - 👨‍💻 All of my projects are available at [Portfolio GitHub](https://github.com/med-more/react-portfolio-with-api.git)
 
