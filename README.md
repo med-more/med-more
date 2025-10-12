@@ -11,9 +11,9 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on Plateforme Booking Hotels – MERN 
+- 🔭 I’m currently working on Chat App – MERN 
 
-- 🌱 I’m currently learning **Redux, React , React Native**
+- 🌱 I’m currently learning **Redux, React , React Native, Socket.io**
 
 - 👨‍💻 All of my projects are available at [Portfolio GitHub](https://github.com/med-more/react-portfolio-with-api.git)
 
