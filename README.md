@@ -190,7 +190,7 @@ Feel free to reach out if you're working on something exciting!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=med-more&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=med-more&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -198,7 +198,7 @@ Feel free to reach out if you're working on something exciting!
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=med-more&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=med-more&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
