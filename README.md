@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Baba</h1>
-<h3 align="center">Full Stack MERN Developer | Open to Collaborations</h3>
+<h3 align="center">🎯 Full Stack Web Developer</h3>
 
 <p align="center">
-  <em>Building scalable web applications with modern technologies</em>
+  <em>Passionate about crafting modern, responsive web applications from front to back.</em><br>
+  ✨ UI/UX lover | 🔐 Security-focused | ⚙️ API builder | 🚀 Performance optimizer | 🐳 Docker enthusiast
 </p>
 
 <p align="left"> 
@@ -186,23 +187,19 @@ Feel free to reach out if you're working on something exciting!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=med-more&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=med-more&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=med-more&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=med-more&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=med-more&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=med-more&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=med-more&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=med-more&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=med-more&theme=radical&no-frame=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
