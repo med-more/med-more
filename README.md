@@ -187,6 +187,13 @@ Feel free to reach out if you're working on something exciting!
 ## 📊 GitHub Stats
 
 <p align="center">
+  <a href="https://github.com/med-more">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=med-more&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=med-more&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=med-more&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
