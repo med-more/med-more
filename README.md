@@ -24,7 +24,7 @@ I'm a passionate Full Stack Developer specializing in the **MERN stack**, focuse
 - 💼 Working on both **individual and team projects**
 - 💬 Ask me about **React, Node.js, MongoDB, Docker, Framer Motion, TypeScript**
 - 📫 Reach me: **mohammedbaba1505@gmail.com** | **0652645566**
-- 🌐 Portfolio: [medfolio-mb.netlify.app](https://medfolio-mb.netlify.app/)
+- 🌐 Portfolio: [medfoliodev.netlify.app](https://medfoliodev.netlify.app/)
 
 ---
 
@@ -138,7 +138,7 @@ Full-featured online store with payment integration
   <a href="https://www.linkedin.com/in/mohammedbaba1505/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medfolio-mb.netlify.app/" target="_blank">
+  <a href="https://medfoliodev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -186,17 +186,18 @@ Feel free to reach out if you're working on something exciting!
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=med-more&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=med-more&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=med-more&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=med-more&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=med-more&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=med-more&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=med-more&theme=radical&no-frame=true&margin-w=4&row=1&column=7)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=med-more&theme=radical&no-frame=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</p>
 
 ---
 
