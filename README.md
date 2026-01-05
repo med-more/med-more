@@ -47,11 +47,19 @@ Real-time messaging application with modern features
 - **Tech Stack:** MERN + Socket.io
 - **Focus:** Real-time communication, user authentication, responsive UI
 
-### 🎉 Events Management Platform (In Progress)
-Full-featured events management system with booking and ticketing
-- **Tech Stack:** MERN Stack
-- **Features:** Event creation, ticket booking, user management, payment integration
-- **Focus:** Real-time updates, responsive design, secure transactions
+### 🎉 EventSphere - Events Management Platform (In Progress)
+A modern event ticketing platform built with React.js and n8n automation
+- **Tech Stack:** React.js, Redux Toolkit, JSON Server, n8n, React Router DOM
+- **User Features:** 
+  - Browse and filter events by category (Music, Art, Shows, Football)
+  - Shopping cart with Redux state management
+  - Secure checkout with automated email confirmation
+  - Contact form integration
+- **Admin Features:**
+  - Protected admin dashboard with authentication
+  - Full CRUD operations for event management
+  - Orders tracking and management system
+- **Highlights:** Real-time cart updates, automated email notifications via n8n, responsive design
 
 ---
 
