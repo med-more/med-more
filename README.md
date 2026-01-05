@@ -16,7 +16,7 @@
 
 I'm a passionate Full Stack Developer specializing in the **MERN stack**, focused on creating dynamic, performant, and scalable web applications. I thrive on technical challenges and continuous learning.
 
-- 🔭 Currently working on **Chat App & E-commerce Platform** using MERN stack
+- 🔭 Currently working on **Chat App & Events Management Platform** using MERN stack
 - 🌱 Currently mastering **Redux, React Native, Socket.io, and Docker**
 - 🐳 Experienced with **Docker** for containerization and deployment
 - 🤝 **Open to collaborations** on interesting projects
@@ -47,10 +47,11 @@ Real-time messaging application with modern features
 - **Tech Stack:** MERN + Socket.io
 - **Focus:** Real-time communication, user authentication, responsive UI
 
-### 🛒 E-commerce Platform (In Progress)
-Full-featured online store with payment integration
+### 🎉 Events Management Platform (In Progress)
+Full-featured events management system with booking and ticketing
 - **Tech Stack:** MERN Stack
-- **Features:** Product management, shopping cart, secure checkout
+- **Features:** Event creation, ticket booking, user management, payment integration
+- **Focus:** Real-time updates, responsive design, secure transactions
 
 ---
 
